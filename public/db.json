@@ -1,0 +1,44 @@
+{
+  "filmes": [
+    {
+      "id": 1,
+      "titulo": "Set it up",
+      "genero": "Romance"
+    },
+    {
+      "id": 2,
+      "titulo": "Ele não está tão a fim de você",
+      "genero": "Romance"
+    },
+    {
+      "id": 3,
+      "titulo": "As Branquelas",
+      "genero": "Comédia"
+    },
+    {
+      "id": 4,
+      "titulo": "Gente Grande",
+      "genero": "Comédia"
+    },
+    {
+      "id": 5,
+      "titulo": "Invocação do Mal",
+      "genero": "Terror"
+    },
+    {
+      "id": 6,
+      "titulo": "It: A Coisa",
+      "genero": "Terror"
+    },
+    {
+      "id": 7,
+      "titulo": "Ilha do Medo",
+      "genero": "Suspense"
+    },
+    {
+      "id": 8,
+      "titulo": "Garota Exemplar",
+      "genero": "Suspense"
+    }
+  ]
+}
